@@ -1,0 +1,9 @@
+c:\users\joselyn\documents\visual studio 2015\Projects\Semana3\Semana3\bin\Debug\Semana3.exe.config
+c:\users\joselyn\documents\visual studio 2015\Projects\Semana3\Semana3\bin\Debug\Semana3.exe
+c:\users\joselyn\documents\visual studio 2015\Projects\Semana3\Semana3\bin\Debug\Semana3.pdb
+c:\users\joselyn\documents\visual studio 2015\Projects\Semana3\Semana3\obj\Debug\Semana3.csprojResolveAssemblyReference.cache
+c:\users\joselyn\documents\visual studio 2015\Projects\Semana3\Semana3\obj\Debug\Semana3.Form1.resources
+c:\users\joselyn\documents\visual studio 2015\Projects\Semana3\Semana3\obj\Debug\Semana3.Properties.Resources.resources
+c:\users\joselyn\documents\visual studio 2015\Projects\Semana3\Semana3\obj\Debug\Semana3.csproj.GenerateResource.Cache
+c:\users\joselyn\documents\visual studio 2015\Projects\Semana3\Semana3\obj\Debug\Semana3.exe
+c:\users\joselyn\documents\visual studio 2015\Projects\Semana3\Semana3\obj\Debug\Semana3.pdb
